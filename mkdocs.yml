@@ -1,0 +1,11 @@
+site_name: 3DV-Lab
+site_url: ""
+
+docs_dir: wiki/docs
+site_dir: wiki/site
+
+nav:
+  - Home: index.md
+
+theme:
+  name: material
