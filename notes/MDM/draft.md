@@ -1,4 +1,4 @@
-## Abstruct
+## Abstract
 现有的生成模型：生成的质量低，表达能力差
 扩散模型：many-to-many nature，有希望成为 human motion 生成领域的候选方法，但是需要大量的训练且难以控制。
 
